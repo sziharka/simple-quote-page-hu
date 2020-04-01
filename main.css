@@ -39,3 +39,25 @@ body {
   font-size: 1.5rem;
   font-style: italic;
 }
+
+footer {
+  width: 100%;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+.change {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+.link {
+  font-size: 1.2rem;
+  text-decoration: none;
+  color: aliceblue;
+}
+
+nav {
+  padding-bottom: 1rem;
+}
